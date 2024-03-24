@@ -1,0 +1,296 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Smartphones"
+        },
+        {
+            "id": 2,
+            "title": "Laptops"
+        },
+        {
+            "id": 3,
+            "title": "Tablets"
+        },
+        {
+            "id": 4,
+            "title": "Accessories"
+        },
+        {
+            "id": 5,
+            "title": "TVs"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Apple iPhone 12, 64GB, Black - Fully Unlocked (Renewed)",
+            "image": [
+                "https://m.media-amazon.com/images/I/41bIlvE1rdL._AC_SX679_.jpg",
+                "https://m.media-amazon.com/images/I/41Tb5lZyi1L._AC_SX679_.jpg",
+                "https://m.media-amazon.com/images/I/41QpAd39IeL._AC_SX679_.jpg"
+            ],
+            "price": 229,
+            "rating": 4.5,
+            "description": "The iPhone 12 uses an OLED matrix with a resolution of 2532x1170 pixels. The best display with incredible contrast and high resolution allows you to enjoy your favorite content in comfort. Thanks to LTE wireless networks, data transmission reaches speeds of up to 2 Gbps, allowing you to download movies and TV series faster, watch high-quality videos online and send photos. This model is designed with a 16-core Neural Engine that can easily perform trillions of operations per second. Thanks to a capacious battery and high energy efficiency, the smartphone can work for a long time without recharging.",
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "title": "Samsung Galaxy S20 FE 5G, 128GB",
+            "image": [
+                "https://m.media-amazon.com/images/I/51IRxly2xcL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/61up7u4v6mL._AC_SY679_.jpg",
+                "https://m.media-amazon.com/images/I/51Uzw0jDYkL._AC_SY679_.jpg"
+            ],
+            "price": 152,
+            "rating": 5.0,
+            "description": "This phone is for maximalists. Meeting your wishes, we have created a smartphone that is capable of everything! If you like photography, gaming or often share your thoughts and impressions on social networks, then this phone will help you realize everything you want. We've updated the S20 to support all your passions.",
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "title": "Samsung Galaxy A35 6/128 GB Awesome Navy",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-19/xed6djhmj1Orf584oNo73XTmHc44R3bQ6oF2ZpIqfhDrAWf4Y7a2twJ0KY5F.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-19/khZyH725n15RLN6ztZQwkzBly40EMXd08KFzXL9L3lsP5U94zPqsM0KgkRJd.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-19/XUKgvv6y1cgE2PrUbhf72dtlpU0bgvjnXxVAY9rqCKBbMPcWalVaQuxXPElY.jpg"
+            ],
+            "price": 333,
+            "rating": 5.0,
+            "description": "Inside is an Exynos 1380 chip with an AMD graphics accelerator, a 5000 mAh battery with 25 W fast charging. The Samsung Galaxy A35 camera offers a 50 MP main sensor, an 8 MP ultra-wide-angle lens, a 5 MP macro sensor and a 13 MP front sensor. The smartphone will also support Bluetooth 5.3",
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "title": "Xiaomi 11 Lite 5G NE 8/128GB Peach Pink",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/HN8lA94QsR9VWvvWiQRrnsX1K0PRlFh47CAzXx4O7ocUtmysklrtdQRCUozt.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/grWrluik5VcV9eesEc1vLlgqY9Z5K5xrP9AKLf2kM19KtiIYwVqsVr2DnbZx.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/LbqWWoD9tPA10X59lgGPu0vzWxFTtKbZAHUfOwuOpACPAjundpKG4bmSkFRI.jpg"
+            ],
+            "price": 142,
+            "rating": 5.0,
+            "description": "Xiaomi 11 Lite 5G NE is a functional smartphone with innovative flagship characteristics. The model features an elegant updated design, a powerful processor, and an improved front camera. The thin, lightweight smartphone fits comfortably in the palm of your hand. The device supports fifth generation networks, providing excellent results in applications and games. Aesthetics and practicality are intertwined in the appearance of the device. The matte anti-reflective surface of the coating minimizes fingerprints.",
+            "categoryId": 1
+        },
+        {
+            "id": 5,
+            "title": "Honor X8b Черный 8/128 GB",
+            "image": [
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-01-19/NPswx2onwul2VhrQN10QphozCh4eq9riw2ovKvvd1ruNKh50QmsFyELebylA.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-01-12/vJ0ailggFffUEJeUB5Fp534yHe4FEuiap769qbvKrj3aXftDGo5MlbiYjsqc.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-01-12/XBsl4KvbKj91rfMnG3RsR3omzlti5Dt4AJi7NQbs8nrAGL450gGzhC6anzKY.jpg"
+            ],
+            "price": 257,
+            "rating": 4.0,
+            "description": "The Honor X8b smartphone is equipped with a 6.7-inch AMOLED display with FHD+ resolution (2412 × 1080 pixels) with a refresh rate of 90 Hz, peak brightness of 2000 cd/m2 and PWM backlight control with a frequency of 3240. The screen supports 16.7 million color shades and covers 100% of the DCI-P3 color space. At the top of the screen there is an oval-shaped Magic Capsule cutout; a new functional display element displays talk time, timer, voice recorder or alarm clock when the application is minimized",
+            "categoryId": 1
+        },
+        {
+            "id": 6,
+            "title": "Laptop HP Envy x360 14-ES0013DX i5-1355U 8/512 14\" FHD",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-18/AoIgc8DJJM4pwBuF674LpAss1NSvk98ASdAhlhQzBOxMWN53IALhwiqa6t9i.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-18/fZNhAzvLnvGZa2kEtZgnK3TcIf6Bn5Y6v4jghbi5vRDUNhU6AYtCwvw6ulvF.JPG",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-18/uMp3BuMvTH3PzDdVFoHE5mfElaHosIuisxOPVYM31tTHZ9PWbchFL4bsJksJ.JPG"
+            ],
+            "price": 637,
+            "rating": 5.0,
+            "description": "The HP Envy is a convertible laptop that delivers the power and convenience for everyday work and play. It is equipped with i5-1355U processor, which provides high performance and fast system operation. One of the key features of this model is the screen rotation 360 degrees, which allows you to use the device in different modes: laptop, tablet or tablet-book.",
+            "categoryId": 2
+        },
+        {
+            "id": 7,
+            "title": "Laptop Acer A315 R5-7520U 8/256GB SSD FHD 15.6\" SILVER",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-12/BOwP0Gsp14GaRBfAKqd4EnQwOVosJ90hVkB54Qt9TJ1h6XzNxeG48W3R4kru.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-12/7FnAePXkgTotoIAVRiKrNfUOKftavoDPQMohB7lENamigS7kVwDaSM7Pqdzv.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-12/t5GmjVshQYeyxGl1ofHnHbvdCUKD9OBllHmg7k5SIK0XkzBqlhh9thmzaf1e.jpg"
+            ],
+            "price": 450,
+            "rating": 4.5,
+            "description": "The Acer A315 laptop has balanced characteristics for different computer tasks - work, study, multimedia entertainment. It is made in a durable plastic case of compact dimensions. Realistic images from any position are ensured thanks to the 15.6-inch IPS FullHD screen. The full-size keyboard and touchpad ensure easy control.",
+            "categoryId": 2
+        },
+        {
+            "id": 8,
+            "title": "Laptop Lenovo IdeaPad 1 15IAU7 i5-1235U 8/256 GB 15.6 FHD",
+            "image": [
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-02-27/2yB2vNatu6om1rwcpIwVyOzzXAg1panrEI181f9cgdIUF6VyzzzfwEFDeNx5.JPG",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-02-27/QJnQT5eexZfumPPXkEwFhHvK75IC1DVypp0ZPoTh5paPFxiPA1cQ7KlvjoWP.JPG",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2024-02-27/AI9uxoRs8eDCfTjzfORD5l7RFfC6TfrZXRHqoQYOj9J5BMiRYuE1Bxwyp674.JPG"
+            ],
+            "price": 640,
+            "rating": 4.0,
+            "description": "Get used to a quality video communication experience with a megapixel webcam with an anti-peeping shutter and an intelligent noise-canceling microphone. Get the most out of your 15\" screen with an 87% usable area ratio. Dive into vibrant 3D audio from dual speakers with Dolby Audio. Taking care of your security is very simple: use the physical shutter of your megapixel webcam and leave no chance for anyone to spy on you.",
+            "categoryId": 2
+        },
+        {
+            "id": 9,
+            "title": "Laptop Msi Cyborg 15 A12VE-091XKR i7 12650H 8/512GB RTX4050 6GB 15.6\" FHD",
+            "image": [
+                "https://olcha.uz/image/700x700/products/XjodKZAagWzUVR3Yj4mVaYL5hwviZAJ91VfhMxhdfeeje7mYylh7qdKHdQQe.jpg",
+                "https://olcha.uz/image/700x700/products/3bFZSih7DNfg1ubnT9w8xJPl2DoQNcsGdsx0UZ4ylrjtizxx0brleFtpYVFT.jpg",
+                "https://olcha.uz/image/700x700/products/8onLyCdwIt5eMhWsXV5cyTwL9x0SAVHBXnDGRotsVFDGY4kNorh1dKYTk6v2.jpg"
+            ],
+            "price": 1060,
+            "rating": 5.0,
+            "description": "Processor: Intel Core i7-12650H is a Tiger Lake H family processor that was announced by Intel. It has 10 cores and 16 threads, making it a powerful solution for multitasking and compute-intensive applications. Clock Speed: The processor has a base clock speed of up to 4.70 GHz, which also indicates high performance. GPU Model: NVIDIA GeForce RTX 4050 - This model likely belongs to NVIDIA's series of mobile GPUs designed for use in laptops. Video Memory Capacity: 6GB GDDR6 is the amount of video memory that indicates the GPU's ability to handle graphics and perform complex tasks.",
+            "categoryId": 2
+        },
+        {
+            "id": 10,
+            "title": "Tablet Xiaomi Redmi Pad SE Graphite Gray 6/128GB",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/s9bnFaVVXwf41pRWUACI4LLM6thM3WSPK59CDJUXmn2eP7l5XyowAuCgTuxu.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/gsOPprx8j7mXq3HV74pXooXEaA3cLhq4auvwsIUleQ7Ld112gunEC8WSFYJY.JPG",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-07/w80sl9gAbAfcL5H0LDmYAgQx6PqmQdW9TxUbFwLNM8p3UTQQYaRSrgRdUiZH.JPG"
+            ],
+            "price": 200,
+            "rating": 5.0,
+            "description": "Immersive 11\" FHD+ display. Smooth 90Hz AdaptiveSync refresh rate.The large 11\" FHD+ display with 16.7 million colors and 90Hz AdaptiveSync refresh rate delivers bright, smooth images for everyday entertainment.Four speakers deliver extraordinary surround sound that creates an immersive home theater experience. Solid metal body, three color options.",
+            "categoryId": 3
+        },
+        {
+            "id": 11,
+            "title": "Samsung Galaxy Tab S8 8/256GB Silver",
+            "image": [
+                "https://olcha.uz/image/700x700/products/XMGJyEx753FpiPEKPQuijoFAgotJwRIH0MK2RFuvBQi1bVU66eijOdKM9nXU.jpg",
+                "https://olcha.uz/image/700x700/products/zFKvMNVKDIgsTc4mwLS0klr2Z63aJydqZORK7cZOw1TF33120kRCJk6OWCE6.jpg",
+                "https://olcha.uz/image/700x700/products/z5zGnQzHLdw4yVPhVErwqTgu2pDZmEVR6K8GZievUqhJacf5j6IRB7lTvFUW.jpg"
+            ],
+            "price": 600,
+            "rating": 4.5,
+            "description": "The Samsung Notes app is the fastest way to capture all your great ideas. With it, you can create notes, sketches and drawings instantly - and even convert written text into printed text.Size. Location. Number of windows. Thanks to Multi Window mode. Only you decide what and how is displayed on your screen. This means that you can now look for inspiration, make architectural sketches and chat with friends at the same time.",
+            "categoryId": 3
+        },
+        {
+            "id": 12,
+            "title": "Tablet  Wintouch M716 1/16GB 7'",
+            "image": [
+                "https://olcha.uz/image/700x700/products/vjbGtROp8wt5oCFg4HNHmJrYkto4X71gZqtxC51Z8WdBotKMRvpPVVyc26VH.jpg",
+                "https://olcha.uz/image/700x700/products/yYBVZLoYXAuQn6VHfVPktpGWafRnQP0skwB8MOm2uI9ZdjxFDl8zT8Qox2Va.jpg"
+            ],
+            "price": 51,
+            "rating": 3,
+            "description": "Wintouch M716 16G 7 Inch 3G Android Tablet Educational Android Phone Dual SIM Kids Tablet with SIM Card Slot. Screen size 7 inches. Memory capacity 16 Go. Screen resolution 1024x600. From the Android 5.1 operating system. Type Tablet PC. Scripts For professionals. Micro USB charging interface. Drive interface 3.5mm audio",
+            "categoryId": 3
+        },
+        {
+            "id": 13,
+            "title": "Tablet Lenovo TB-8505X 2/32GB 8.0\" Silver",
+            "image": [
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-11-29/s0E1QexNuaz6w52XcURHIP4w5eOprR5TYRoIPFqI9TXErBMkUB7VqLNJSnKL.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-11-29/i0RY7ECuNZ3FPCqwe6TTeVM2sO0oVOfp37RcFFAjmOjW0eBPW9rzuIFMIgNe.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-11-29/CgX0aZoLrmQ21QjinjCeGz2SqKc9GKRVQnCdUV7Xuy8CgLKUVXmrzrnS30m9.jpg"
+            ],
+            "price": 167,
+            "rating": 5.0,
+            "description": "The Lenovo Smart Tab M8 with Google Assistant is an eye-catcher with a sleek design, high-quality metal body and a large screen with narrow bezels (an impressive 83% screen-to-body ratio). We've put a lot of work into creating the look and feel of this device that you'll use every day. The Lenovo Smart Tab M8 is designed for use by the whole family. Multi-account support and a dedicated Kids Mode with parental controls and dashboard let you control the content your kids can view.",
+            "categoryId": 3
+        },
+        {
+            "id": 14,
+            "title": "Wireless headphones Vivo TWS 3e",
+            "image": [
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/nY0HXSygYVof6lx4wwg3YqSfdMVU1llSNu4OwYKdPoVntmnn2YCfqDQaqXE6.jpg",
+                "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/PRua6Grid51qYvyIYWtId8p17pUjkPw2umVw0ldPSf5xMKgVZGsVJuQmISxw.jpg"
+            ],
+            "price": 72,
+            "rating": 4.5,
+            "description": "Intelligent Active Noise Cancellation blocks sound waves, allowing you to enjoy a calm atmosphere in the cafe, bedroom or your own cozy corner amidst the chaos. Turn off all sounds from the outside world and immerse yourself in the world of music. Improved microphone resistance to wind noise. Noise reduction during calls. The AI ​​system performs complex calculations to mimic human hearing, preserve voice, and suppress background noise. Cross-ventilated design.",
+            "categoryId": 4
+        },
+        {
+            "id": 15,
+            "title": "Xiaomi Mi City Backpack 2",
+            "image": [
+                "https://olcha.uz/image/700x700/products/2022-06-20/ryukzak-xiaomi-mi-city-backpack-2-60153-0.jpeg",
+                "https://olcha.uz/image/700x700/products/2022-06-20/ryukzak-xiaomi-mi-city-backpack-2-60153-1.jpeg",
+                "https://olcha.uz/image/700x700/products/2022-06-20/ryukzak-xiaomi-mi-city-backpack-2-60153-2.jpeg"
+            ],
+            "price": 39,
+            "rating": 4.5,
+            "description": "On the outside there is a special two-layer pocket for the most necessary everyday items that you always want to have at hand. The left pocket has a waterproof PVC lining, perfect for storing a thermos or umbrella, while the right pocket is thickly lined with soft fabric to protect your glasses from scratches and damage.",
+            "categoryId": 4
+        },
+        {
+            "id": 16,
+            "title": "Wireless headphones Borofone BO25  Blue",
+            "image": [
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-10-28/18COE5MgcmojbaEwX1kGhDKt2cWMwtFQSFyD9zEBJtBDeIFndBge1GYB2Z7a.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-10-28/ADon6IABpqLOAHuLCZG5EsHBdI6cxY34nD247F1tA4egb3GcyqXxPv4hZFGO.jpg"
+            ],
+            "price": 18,
+            "rating": 5.0,
+            "description": "Full-size wireless headphones Borofone BO25 with a microphone provide excellent sound quality and maximum comfort. The headphones are fully optimized for use with different devices. The headset can be connected to a smartphone, tablet, computer, laptop via Bluetooh or AUX 3.5 mm Jack. Large and soft ear pads are comfortable for long-term use. Foldable design for easy carrying. Use the function buttons to answer calls and control music.",
+            "categoryId": 4
+        },
+        {
+            "id": 17,
+            "title": "Electric stabilizer for smartphone Hohem iSteady X",
+            "image": [
+                "https://olcha.uz/image/700x700/products/GFtNW1eofV998ZocRPBLn0OYK2k8yEKFe4qGNE12SPSkR0CU7Q2tycirhTPG.jpg",
+                "https://olcha.uz/image/700x700/products/7FPsypCnNiOCp0zCyiCXN8nSMsrcDyFgWdmFa8z0ZCsRJ9uUKL75XJaU6Xwx.jpg",
+                "https://olcha.uz/image/700x700/products/Z4ju8vostnQlVrDfYzr9UXra3ocUOgRUBbcjiUhCkEBcIg4BnrlKqWrVv5Ub.jpg"
+            ],
+            "price": 75,
+            "rating": 5.0,
+            "description": "Hohem iSteady X is a lightweight and versatile gadget for your smartphone that combines a selfie stick, tripod and axis stabilizer. It will become an indispensable assistant for vlogging and streaming. Seize the moment and take smooth shots. The iSteady X's single-axis brushless motor helps you shoot smoother videos. Using a proprietary application, it can automatically track your face, following your movements and become your personal photo and video assistant. Take great selfies, even if you're traveling alone.",
+            "categoryId": 4
+        },
+        {
+            "id": 18,
+            "title": "TV Samsung UE55CU7100UXUZ 55\"",
+            "image": [
+                "https://olcha.uz/image/700x700/products/R06TyWLlis60Wgm3D8Fw9z7eo9DNIP1R3EWA3j029qAHQwgkPhkaf6ySxx9v.jpg",
+                "https://olcha.uz/image/700x700/products/nZMiNPaKSQC0xb79bpnGmrGPaGnnZ2T3ImnMXDbGDtOZZKV2fi9P87riNDiU.jpg",
+                "https://olcha.uz/image/700x700/products/lIB79jmwEAfpzMglb9G3fYvTpqqYSwHgLjY9UZai7OkhLB95gsao4tGjP2Q2.jpg"
+            ],
+            "price": 598,
+            "rating": 4.5,
+            "description": "A TV is an electronic device for watching television programs and video files. It consists of a screen on which the image is displayed and a built-in audio system for producing sound. Modern televisions typically have a flat screen and high-definition (HD) or ultra-high-definition (4K) resolution. Many models also support smart TV functionality, allowing you to use Internet apps and video streaming.",
+            "categoryId": 5
+        },
+        {
+            "id": 19,
+            "title": "TV Artel A32KH5500 Android Black",
+            "image": [
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-08-16/pAQH76UfcU7xcqcXuvs1LaYIfGG2hnleeGumybxuRD405fT8lKWtqeD0ka2x.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-08-16/Po3NB5Fkzft4PkOvPHfgs0LYrLrNRtR1bQ3KW5RfUZcPrHJCylsoot8uRcHJ.jpg",
+                "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-08-16/WfYCq7ndsIO0BFFFribm1byH7n3sLlUe9PGbqJSEC3tA9lY6RK0rd857K2A9.jpg"
+            ],
+            "price": 157,
+            "rating": 4.5,
+            "description": "HyperReal Image Processor. Dynamic contrast Mega Contrast. Estimated image quality index PQI (Picture Quality Index) 400.0 . Micro Dimming technology (local illumination to increase image contrast) M/D Pro. Sound output power (rms value) 20 W.",
+            "categoryId": 5
+        },
+        {
+            "id": 20,
+            "title": "Hisense 50A63H UHD Smart TV",
+            "image": [
+                "https://olcha.uz/image/700x700/products/2022-10-25/televizor-hisense-50a63h-uhd-smart-tv-159476-0.jpeg",
+                "https://olcha.uz/image/700x700/products/2022-10-25/televizor-hisense-50a63h-uhd-smart-tv-159476-2.jpeg",
+                "https://olcha.uz/image/700x700/products/2022-10-25/televizor-hisense-50a63h-uhd-smart-tv-159476-3.jpeg"
+            ],
+            "price": 438,
+            "rating": 5.0,
+            "description": "Ultra HD TV with a resolution of 3840 * 2160 pixels. See what you've been missing with incredible clarity that's four times the quality of Full HD.Hear what previously escaped your ear, and feel a new degree of involvement in what is happening in your favorite TV series or movie. It seems like the sound is coming from above, like in a movie theater.Expand the boundaries of your capabilities. HDMI and USB connectors, Wi-Fi and Bluetooth connections will allow you to connect more devices and external media to the TV.",
+            "categoryId": 5
+        },
+        {
+            "id": 21,
+            "title": "Xiaomi Mi TV A2 32\" (L32M7-EARU)",
+            "image": [
+                "https://olcha.uz/image/700x700/products//supplier/stores/26708/2023-05-15%2Fxiaomi-tv-a2-32.jpg",
+                "https://olcha.uz/image/700x700/products//supplier/stores/26708/2023-05-15%2Fxiaomi-tv-a2-32-1.jpg",
+                "https://olcha.uz/image/700x700/products//supplier/stores/26708/2023-05-15%2Fxiaomi-tv-a2-32-2.jpg"
+            ],
+            "price": 259,
+            "rating": 4.5,
+            "description": "Smart Operation, Borderless Pictures Full Screen Design High Definition Display Ultra-thin bezel design delivers a high screen-to-body ratio that far exceeds that of standard TVs. As soon as you turn on the TV, the screen is filled with incredibly colorful, high-definition images so you can be completely immersed in the action. Superior quality Metal construction With an exquisite metal frame and unibody design, Xiaomi TV A2 will be a striking feature in any interior.",
+            "categoryId": 5
+        }
+    ]
+}
